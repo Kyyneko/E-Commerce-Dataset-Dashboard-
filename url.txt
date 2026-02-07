@@ -1,2 +1,2 @@
-# URL Streamlit Cloud (jika di-deploy)
-# Contoh: https://your-username-ecommerce-dashboard.streamlit.app
+# URL Streamlit Cloud
+https://e-commerce-dataset-dashboard-git-aposdepemzxsa7iubn6mny.streamlit.app/
